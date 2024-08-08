@@ -1,31 +1,31 @@
 {"videos":[
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
-    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+        "titulo": "Rocky, um Lutador - 1976",
+        "capa": "https://i.pinimg.com/564x/02/9e/58/029e58a8af7e3423ed639bda6b78b4a0.jpg",
+        "link": "https://www.youtube.com/embed/E9pJa7GIR1Y?si=-JvCQS164ItPnFcI",
+    "sinopse":"Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
-    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+        "titulo": "O Exorcista  - 1973",
+        "capa": "https://media.gettyimages.com/id/504412731/pt/foto/a-poster-for-william-friedkins-1973-horror-the-exorcist-starring-max-von-sydow.jpg?s=1024x1024&w=gi&k=20&c=7akx5Q6HrCeIpfFOFRXx8kdh7fDyDV2M_VyM33G14Fs=",
+        "link": "https://www.youtube.com/embed/9h8x3HdEkOY?si=HHNjVjVefYsalCgv",
+    "sinopse":"Uma atriz vai gradativamente tomando consciência de que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também é um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw",
-    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+        "titulo": "Tubarão - 1975",
+        "capa": "https://media.gettyimages.com/id/629542687/pt/foto/a-poster-for-the-1975-american-film-jaws-directed-by-steven-spielberg-for-universal-studios.jpg?s=1024x1024&w=gi&k=20&c=w9Cfjw531s5wuAop7wT08FESYOB6ceKxmZ2NRCnavug=",
+        "link": "https://www.youtube.com/embed/CpMV9YA_4Tk?si=TkaA8ZbiJ2SP1Ehi",
+    "sinopse":"Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local (Roy Scheider) pede ajuda a um ictiologista (Richard Dreyfuss) e a um pescador veterano (Robert Shaw) para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam."
     },
   {
     "id": 4,
-    "titulo": "Dart, o Caçador de Andróides",
-    "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-    "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
-    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+    "titulo": "O Poderoso Chefão",
+    "capa": "https://media.gettyimages.com/id/505997107/pt/foto/the-godfather-a-1972-american-crime-film-starring-marlon-brando-and-al-pacino.jpg?s=1024x1024&w=gi&k=20&c=ChFKRr0zkV9bVeb68ANQYuMFd08UiqVG5a0-l5IrCyM=",
+    "link": "https://www.youtube.com/embed/w3Wo6QiD3eU?si=-iSoHk1_Ret3-3Wq",
+    "sinopse":"Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios."
   },
   {
     "id": 5,

@@ -3,30 +3,36 @@
         "id": 1,
         "titulo": "O labirinto do Logcat",
         "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+        ,
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
     },
     {
         "id": 2,
         "titulo": "Um componente no espaço",
         "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
     },
     {
         "id": 3,
         "titulo": "O poderoso JavaScript",
         "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "link": "https://www.youtube.com/embed/N1BSG02z-Mw",
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
     },
-    {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-    },
+  {
+    "id": 4,
+    "titulo": "Dart, o Caçador de Andróides",
+    "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+    "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+  },
   {
     "id": 5,
     "titulo": "Teste",
-    "capa": "https://media.gettyimages.com/id/458587791/pt/foto/a-pessoa-desconhecida-mar%C3%A9s-poster.jpg?s=1024x1024&w=gi&k=20&c=wKpNuGhkGe3VDd3ZiqMMLpMHrtNQGzzpumgB4eFcaJw=",
-    "link": "https://www.google.com.br"
+    "capa": "https://photos.fife.usercontent.google.com/pw/AP1GczNv2gANjizF6Vzknev9VnsaqqwNAJPdiMx3qiHpN-nCWSDlfhrVcgzb1w=w720-h720-s-no-gm?authuser=0",
+    "link": "https://www.google.com.br",
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
   }
 ]}

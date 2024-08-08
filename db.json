@@ -34,5 +34,48 @@
     "link": "https://www.youtube.com/embed/DGnatLS9Ohw?si=Ds_JePLR8jjvJ0W8",
     "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
   }
+
+
+  ,
+  {
+    "id": 6,
+    "titulo": "De volta para o Futuro - 1990",
+    "capa": "https://i.pinimg.com/564x/20/d9/e0/20d9e047762c946e380eaba2e114c1a8.jpg",
+    "link": "https://www.youtube.com/embed/NeiUe9ohMnc?si=INdqH6iuL0Z2YcHA",
+    "sinopse":"Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty McFly (Michael J. Fox) decide viajar para o Velho Oeste, no dia 2 de setembro do mesmo ano. Lá ele descobre que o doutor está fugindo de uma gangue de bandidos e se apaixonou por uma professora da época. Agora, Marty tem apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro."
+  }
+
+  ,
+  {
+    "id": 7,
+    "titulo": "O Predador - 1987",
+    "capa": "https://i.pinimg.com/736x/a0/5f/f5/a05ff5bbba150b0096eef12a5fe9949c.jpg",
+    "link": "https://www.youtube.com/embed/_1wDBNHYDv8?si=xFsa7_My2hSAGFnp",
+    "sinopse":"Dutch é contratado pelo governo dos Estados Unidos para resgatar políticos presos na Guatemala. Mas quando ele e sua equipe chegam na América Central, logo percebem que há algo errado. Depois de descobrir vários cadáveres, a equipe descobre que está sendo caçada por uma criatura brutal com força sobre-humana e uma capacidade surpreendente de se camuflar."
+  }
+
+  ,
+  {
+    "id": 8,
+    "titulo": "Indiana Jones E O Templo Da Perdição - 1984",
+    "capa": "https://i.pinimg.com/564x/4d/93/08/4d9308a38402d7d5a9a1a8e5dfa9daf1.jpg",
+    "link": "https://www.youtube.com/embed/GGSpsutNlwI?si=kwfmXfzJrG-8u8Dl",
+    "sinopse":"Indiana Jones tem como missão resgatar uma pedra roubada por um cruel feiticeiro na Índia. Ele descobre uma mina onde crianças são escravizadas e se depara com cultos de sacrifício humano nas catacumbas de um antigo palácio."
+  },
+  {
+    "id": 9,
+    "titulo": "Robocop - 1987",
+    "capa": "https://i.pinimg.com/564x/71/92/4d/71924db5f4709a08c0cacd61cb50ace9.jpg",
+    "link": "https://www.youtube.com/embed/IqvRDhW-XVA?si=VuR6hhEFKp6-EpkL",
+    "sinopse":"Policial é morto em combate e transformado por cientistas da empresa que dirige a força policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Porém, apesar de ter sua memória apagada, lembranças o assombram e o levam a buscar vingança"
+  }
+  ,
+  {
+    "id": 10,
+    "titulo": "Superman - 1978",
+    "capa": "https://i.pinimg.com/564x/9d/e0/db/9de0db4eb4b1b79dc186962d7902f41c.jpg",
+    "link": "https://www.youtube.com/embed/xXyuUbtpmxE?si=JoW3ak2RTYeVB1nH",
+    "sinopse":"Pouco antes da destruição do planeta Krypton, o cientista Jor-El envia seu pequeno filho Kal-El em uma nave espacial à Terra. Criado pelos agricultores Jonathan e Martha Kent, o jovem Clark descobre a fonte de seus poderes sobre-humanos e se muda para Metrópolis para combater o mal. Como Superman, ele luta contra o vilão Lex Luthor e como repórter, Clark Kent, tenta conquistar Lois Lane."
+  }
 ]}
 
